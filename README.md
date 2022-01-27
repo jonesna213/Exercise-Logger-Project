@@ -9,3 +9,5 @@ The objectives were:
 - Edit Profile page to edit the users profile
 - Log Exercise Page to add exercise logs to the users account
 - View Profile Page to view the users profile along with the 15 lastest exercises
+
+(Dose not include the dbconnection.php file)
